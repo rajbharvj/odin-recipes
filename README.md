@@ -1,3 +1,3 @@
 # odin-recipes
 
-A simple recipes to demonstrate my HTML skill.
+A simple recipes site to demonstrate my HTML skill.
